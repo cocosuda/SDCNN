@@ -1,2 +1,2 @@
 # SDCNN
-THIS pojuect combine a DCNN with an autoencoder
+THIS project combine a DCNN with an autoencoder
